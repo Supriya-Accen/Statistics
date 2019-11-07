@@ -1,1 +1,1 @@
-# Statistics
+#Basics of statistics
